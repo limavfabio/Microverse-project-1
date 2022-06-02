@@ -3,3 +3,20 @@
      background-color: lightblue;
    }
  }
+
+ #welcome-section {
+   height: 100vh;
+   display: flex;
+   margin: auto;
+ }
+
+ #navbar {
+    background:rgb(255, 163, 163);
+    color:rgb(0, 0, 0);
+    text-align:center;
+    width:100%;
+    padding: 0;
+    margin: 0;
+    position:sticky;
+    top:0;
+ }
